@@ -7,7 +7,7 @@
 4. [Contact and Support](#contact-and-support)
 
 ## Introduction
-This repository demonstrates the integration between the two Unity Asset Store projects: the Flexible Grid Controller and the Turn Based Strategy Framework. The Framework is a flexible tool for developing turn-based strategy games in Unity and is available in the [Unity Asset Store](http://u3d.as/mfd). The Flexible Grid Controller facilitates integrating various input methods, such as keyboard or gamepad into any grid-based project. It is a great match for the Turn Based Strategy Framework, but it is not limited to it.
+This repository demonstrates the integration between the two Unity Asset Store projects: the Flexible Grid Controller and the Turn Based Strategy Framework. The Framework is a flexible tool for developing turn-based strategy games in Unity and is available in the [Unity Asset Store](http://u3d.as/mfd). [The Flexible Grid Controller](https://u3d.as/3dcm) facilitates integrating various input methods, such as keyboard or gamepad into any grid-based project. It is a great match for the Turn Based Strategy Framework, but it is not limited to it.
 
 ## Getting Started
 ### Prerequisites
